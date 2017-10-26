@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 '''
 爬虫 解析江西省公共资源交易网--鹰潭市政府网站数据
+基于python2.7 和BeautifulSoup4
 auther:kazeik.chen
 date:2017-10-26
 '''
