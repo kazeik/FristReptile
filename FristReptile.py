@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 '''
 爬虫 解析江西省公共资源交易网--鹰潭市政府网站数据
+auther:kazeik.chen
+date:2017-10-26
 '''
 import urllib2
 import sys
